@@ -1,6 +1,6 @@
-# ASTRO
+# VETOM
 This Tools Provide By ASTRO Random, Follower User Clone 
-# ASTRO
+# VETOM
 
 python3 :)
 
@@ -16,10 +16,10 @@ python3 :)
 
 <h1 align="center"> |CYTHON FAMILY|</h1>
 
-<h2 align="center"> ASTRO CLONNING PREMIUM TOOL </h2>
+<h2 align="center"> VETOM CLONNING PREMIUM TOOL </h2>
 
 <p align="center">
-      ASTRO CLONNING
+      VETOM CLONNING
 </p>
 
 
@@ -31,7 +31,7 @@ python3 :)
 
 ```
 cd
-rm -rf ASTRO
+rm -rf VETOM
 
 $ pkg update
 $ pkg upgrade
@@ -43,9 +43,9 @@ $ pip install lolcat
 $ pip install rich
 $ pip install bs4
 $ pkg install git
-$ git clone https://github.com/Chigozieworldwide/ASTRO
-$ cd ASTRO
-$ python ASTRO.py
+$ git clone https://github.com/Chigozieworldwide/VETOM
+$ cd VETOM
+$ python VETOM.py
 
 
 
@@ -58,7 +58,7 @@ $ python ASTRO.py
 
 
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Chigozieworldwide/ASTRO ; cd ASTRO ; python ASTRO.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Chigozieworldwide/VETOM ; cd VETOM ; python VETOM.py
 ```
  ## Support Me On
 <b>• [Youtube](https://youtube.com/channel/UCFLeodw8gk9oNcnttsOrO3A)</b>
