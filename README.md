@@ -1,6 +1,7 @@
 # VETOM
 This Tools Provide By ASTRO Random, Follower User Clone 
 # VETOM
+ Only 32BITS USERS
 
 python3 :)
 
@@ -24,7 +25,7 @@ python3 :)
 
 
 
-![20200808_16075](https://github.com/Chigozieworldwide/ASTRO/blob/main/20220601_181033.png)
+![20200808_16075](https://github.com/CythonFamily/ASTRO/blob/main/2022.png)
 
 
 ## <b>installation</b>
@@ -43,7 +44,7 @@ $ pip install lolcat
 $ pip install rich
 $ pip install bs4
 $ pkg install git
-$ git clone https://github.com/Chigozieworldwide/VETOM
+$ git clone https://github.com/CythonFamily/ASTRO
 $ cd VETOM
 $ python VETOM.py
 
@@ -58,7 +59,7 @@ $ python VETOM.py
 
 
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Chigozieworldwide/VETOM ; cd VETOM ; python VETOM.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/CythonFamily/ASTRO ; cd VETOM ; python VETOM.py
 ```
  ## Support Me On
 <b>• [Youtube](https://youtube.com/channel/UCFLeodw8gk9oNcnttsOrO3A)</b>
