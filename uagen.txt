@@ -1,1 +1,0 @@
-Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A107M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36
